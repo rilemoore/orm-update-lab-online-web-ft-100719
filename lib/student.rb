@@ -20,7 +20,7 @@ class Student
     
     new_student = self.new(row[0],row[1],row[2])
     new_student
-    
+    binding.pry
   end
 
   def self.create_table
